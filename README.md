@@ -27,14 +27,14 @@ Step-by-step guide to:
 - Create and connect a Telegram bot  
 - Set messaging policies  
 
-👉 See: `openclaw-telegram-setup.md`
+👉 See: `OPENCLAW_TELEGRAM_SETUP.md`
 
 ---
 
 ### 2. 🚀 Production Setup
 Guide for deploying the application to a production environment.
 
-👉 See: `production-setup.md`
+👉 See: `PRODUCTION_SETUP.md`
 
 ---
 
@@ -44,7 +44,7 @@ Instructions for:
 - Understanding the data structure  
 - Running the project locally  
 
-👉 See: `mini-crm-setup.md`
+👉 See: `SETUP_GUIDE.md`
 
 ---
 
